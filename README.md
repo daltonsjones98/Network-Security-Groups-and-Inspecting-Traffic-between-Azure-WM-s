@@ -14,9 +14,9 @@
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Windows 10 WM and Linux Ubuntu Server within Azure
+- Use Remote Desktop and download Wireshark on WM1
+- Ping WM 2's IP address to verify connectivity
+- Block WM 1's firewall and observe the closed traffic
 
 <h2>Actions and Observations</h2>
