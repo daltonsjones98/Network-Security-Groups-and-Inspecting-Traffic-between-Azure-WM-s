@@ -51,3 +51,7 @@
 <br />
 &emsp; 
 &emsp;
+<img src="https://imgur.com/QBbEbNt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ - Inbound rule in motion. No replies from WM2!
