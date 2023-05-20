@@ -1,9 +1,9 @@
 # Network-Security-Groups-and-Inspecting-Traffic-between-Azure-WM-s
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/PC)
 - Remote Desktop
-- Various Command-Line Tools
+- Powershell and Command 
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
