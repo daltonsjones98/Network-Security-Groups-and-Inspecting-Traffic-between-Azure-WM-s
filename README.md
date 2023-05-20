@@ -21,3 +21,6 @@
 - Observe all traffic on ICMP, SSH, DNS, and RDP protocols
 
 <h2>Actions and Observations</h2>
+
+<p>
+<img src=https://imgur.com/2I33krA
