@@ -28,14 +28,21 @@
 Installed Wireshark on WM1!
 </p>
 <br />
+&emsp;
+&emsp;
+&emsp;
+&emsp;
 
 
-<p>
-<p>
-<p>
-<p>
-
-<img src="https://imgur.com/hwd8Tal.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/c25gO4E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Inspected traffic between both of the virtual machines. Wireshark gives the option to filter which networking protocol to use, I observed the traffic with ICMP.
+ </p>
+<br />
+
+&emsp; 
+&emsp;              
+<img src="https://imgur.com/TweMPvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
