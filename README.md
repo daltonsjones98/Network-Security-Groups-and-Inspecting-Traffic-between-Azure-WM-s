@@ -25,7 +25,7 @@
 <img src="https://imgur.com/2I33krA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installed Wireshark on WM1!
+-Installed Wireshark on WM1!
 </p>
 <br />
 &emsp;
@@ -37,12 +37,17 @@ Installed Wireshark on WM1!
 <img src="https://imgur.com/c25gO4E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Inspected traffic between both of the virtual machines. Wireshark gives the option to filter which networking protocol to use, I observed the traffic with ICMP.
+-Inspected traffic between both of the virtual machines. Wireshark gives the option to filter which networking protocol to use, I observed the traffic with ICMP.
  </p>
 <br />
 
 &emsp; 
+&emsp;
 &emsp;              
 <img src="https://imgur.com/TweMPvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+-Created a new inbound rule within Azure to  ban all ICMP4 traffic.
+ </p>
+<br />
+&emsp; 
+&emsp;
