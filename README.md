@@ -18,5 +18,6 @@
 - Use Remote Desktop and download Wireshark on WM1
 - Ping WM 2's IP address to verify connectivity
 - Block WM 1's firewall and observe the closed traffic
+- Observe all traffic on IMCP, SSH, DNS, and RDP protocols
 
 <h2>Actions and Observations</h2>
