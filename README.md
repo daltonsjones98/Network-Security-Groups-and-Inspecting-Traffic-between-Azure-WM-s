@@ -2,9 +2,9 @@
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/PC)
-- Remote Desktop
+- Microsoft Remote Desktop
 - Powershell and Command 
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
@@ -12,7 +12,7 @@
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Steps</h2>
 
 - Create Windows 10 WM and Linux Ubuntu Server within Azure
 - Use Remote Desktop and download Wireshark on WM1
