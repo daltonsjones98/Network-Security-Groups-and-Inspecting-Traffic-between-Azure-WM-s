@@ -1,26 +1,23 @@
-# Network-Security-Groups-and-Inspecting-Traffic-between-Azure-WM-s
+# NSG's and Inspecting Traffic between Azure virtual machines
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/PC)
-- Microsoft Remote Desktop
-- Powershell and Command 
-- Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Virtual Machines hosted on Azure 
+- Windows 10 (21H2)
+- _Ubuntu Server 20.04_
+- _Microsoft Remote Desktop_
+- _Powershell and Command_ 
+- Network Protocols (**SSH**, **RDH**, **DNS**, **HTTPS**, **ICMP**)
 - Wireshark (Protocol Analyzer)
 
-<h2>Operating Systems Used </h2>
+<h3>Objectives</h3>
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+1. Create Windows 10 WM and Linux Ubuntu Server within Azure
+2. Connect to Virtual Machine 1 Remote Desktop and download Wireshark
+3.  Ping WM 2's IP address to verify connectivity
+4.  Block WM 1's firewall and observe the closed traffic
+5. Observe all traffic on ICMP, SSH, DNS, and RDP protocols
 
-<h2>Steps</h2>
-
-- Create Windows 10 WM and Linux Ubuntu Server within Azure
-- Use Remote Desktop and download Wireshark on WM1
-- Ping WM 2's IP address to verify connectivity
-- Block WM 1's firewall and observe the closed traffic
-- Observe all traffic on ICMP, SSH, DNS, and RDP protocols
-
-<h2>Actions and Observations</h2>
+<h3>Actions and Observations</h3>
 <p>
 <img src="https://imgur.com/2I33krA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -55,3 +52,6 @@
 </p>
 <p>
  - Inbound rule in motion. No replies from WM2!
+
+
+https://github.com/daltonsjones98
