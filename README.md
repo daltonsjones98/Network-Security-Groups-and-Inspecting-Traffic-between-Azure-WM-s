@@ -19,10 +19,8 @@
 
 <h3>Actions and Observations</h3>
 <p>
-<img src="https://imgur.com/2I33krA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
--Installed Wireshark on WM1!
+
+Installed Wireshark on WM1
 </p>
 <br />
 &emsp;
@@ -41,9 +39,6 @@
 &emsp; 
 &emsp;
 &emsp;              
-<img src="https://imgur.com/TweMPvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
--Created a new inbound rule within Azure to  ban all ICMP4 traffic.
  </p>
 <br />
 &emsp; 
@@ -51,7 +46,8 @@
 <img src="https://imgur.com/QBbEbNt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- - Inbound rule in motion. No replies from WM2!
+ Created a new inbound rule within Azure to ban all ICMP4 traffic.
+ The image above is the inbound rule in motion. Used Ping to test connectivity and there were no replies from WM2. 
 
 
 https://github.com/daltonsjones98
