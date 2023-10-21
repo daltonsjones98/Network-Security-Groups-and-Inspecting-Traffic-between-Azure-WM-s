@@ -13,8 +13,8 @@
 
 1. Create Windows 10 WM and Linux Ubuntu Server within Azure
 2. Connect to Virtual Machine 1 Remote Desktop and download Wireshark
-3.  Ping WM 2's IP address to verify connectivity
-4.  Block WM 1's firewall in Azure and observe the closed traffic
+3. Ping WM 2's IP address to verify connectivity in CMD
+4. Block WM 1's firewall in Azure and observe the closed traffic
 5. Observe all traffic on ICMP, SSH, DNS, and RDP protocols
 
 <h3>Actions and Observations</h3>
